@@ -1,0 +1,51 @@
+body{
+    font-family: times sans-serif, serif;
+    font-size: 120%;
+    line-height: 0.5;
+    color: #444 ;
+    background-color: orangered;
+}
+body{
+    margin: 0;
+}
+
+.menu{
+    background-color: black;
+    text-align: center;
+    
+}
+.menu a{
+    color: #fff;
+    text-decoration: none;
+    padding: 1em 1.7em;
+    display: inline-block;
+}
+.menu a:hover
+{
+    color:orangered;
+    background-color: navajowhite;
+    
+}
+.menu a.active{
+    background-color: aliceblue
+        cornflowerblue
+}
+.featured-img{
+    
+}
+.site-footer{
+    background-color: ;
+    padding: 0.1em;
+}
+.main{
+   margin:0 auto;
+    width: 60%;
+    
+    text-align: center;
+   
+}
+
+.main-sub-title{
+    font-size: 24pt;
+    font-weight: bold;
+}
